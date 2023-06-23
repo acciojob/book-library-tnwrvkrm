@@ -13,4 +13,6 @@ body{
 
 .btn{
 	background: #2ecc71;
+	color: rgb(255,255,255);
+	text-align: center;
 }
