@@ -7,10 +7,10 @@ body{
 	background: #ffffff;
 }
 
-.book{
-	
+.book p{
+	color: #777777;
 }
 
 .btn{
-	
+	background: #2ecc71;
 }
